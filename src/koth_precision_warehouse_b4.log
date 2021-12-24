@@ -1,0 +1,706 @@
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\AcerUser\Desktop\Technicals\Hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.vmf
+Patching WVT material: maps/koth_precision_warehouse_b4/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material SWAMP/WATER/WATER_MURKY_BENEATH doesn't have a $bottommaterial
+error: material SWAMP/WATER/WATER_MURKY_BENEATH doesn't have a $bottommaterial
+error: material SWAMP/WATER/WATER_MURKY_BENEATH doesn't have a $bottommaterial
+error: material SWAMP/WATER/WATER_MURKY_BENEATH doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\AcerUser\Desktop\Technicals\Hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_trainyard_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_trainyard_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_trainyard_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_trainyard_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (210952 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1441 texinfos to 661
+Reduced 75 texdatas to 59 (3856 bytes to 2916)
+Writing C:\Users\AcerUser\Desktop\Technicals\Hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\AcerUser\Desktop\Technicals\Hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 23491, actual size 17649
+4 seconds elapsed
+
+
+
+8 threads
+reading c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+reading c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.prt
+ 827 portalclusters
+2429 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1095 visible clusters (0.47%)
+Total clusters visible: 232544
+Average clusters visible: 281
+Building PAS...
+Average clusters audible: 738
+visdatasize:164393  compressed from 172016
+writing c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp', but we don't own that location. Allowing.
+35 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+3699 faces
+2 degenerate faces
+949866 square feet [136780752.00 square inches]
+114 Displacements
+6146 Square Feet [885069.38 Square Inches]
+3697 patches before subdivision
+52499 patches after subdivision
+44 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4186987, max 439
+transfer lists:  31.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(272237, 273325, 268283)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(69154, 67061, 55560)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20227, 19358, 13812)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6937, 6520, 4050)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2547, 2356, 1268)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(983, 889, 414)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(393, 347, 139)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(160, 137, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(67, 55, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(28, 22, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(12, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0168 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  45/1024         2160/49152    ( 4.4%) 
+brushes                535/8192         6420/98304    ( 6.5%) 
+brushsides            6508/65536       52064/524288   ( 9.9%) 
+planes               12582/65536      251640/1310720  (19.2%) 
+vertexes              5995/65536       71940/786432   ( 9.1%) 
+nodes                 2809/65536       89888/2097152  ( 4.3%) 
+texinfos               661/12288       47592/884736   ( 5.4%) 
+texdata                 59/2048         1888/65536    ( 2.9%) 
+dispinfos              114/0           20064/0        ( 0.0%) 
+disp_verts            9234/0          184680/0        ( 0.0%) 
+disp_tris            14592/0           29184/0        ( 0.0%) 
+disp_lmsamples       24760/0           24760/0        ( 0.0%) 
+faces                 3699/65536      207144/3670016  ( 5.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1538/65536       86128/3670016  ( 2.3%) 
+leaves                2855/65536       91360/2097152  ( 4.4%) 
+leaffaces             4080/65536        8160/131072   ( 6.2%) 
+leafbrushes           1988/65536        3976/131072   ( 3.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            23610/512000      94440/2048000  ( 4.6%) 
+edges                13074/256000      52296/1024000  ( 5.1%) 
+LDR worldlights         44/8192         3872/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            249/32768        2490/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4065/65536        8130/131072   ( 6.2%) 
+cubemapsamples          22/1024          352/16384    ( 2.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3803212/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      164393/16777216 ( 1.0%) 
+entdata               [variable]       47489/393216   (12.1%) 
+LDR ambient table     2855/65536       11420/262144   ( 4.4%) 
+HDR ambient table     2855/65536       11420/262144   ( 4.4%) 
+LDR leaf ambient     14073/65536      394044/1835008  (21.5%) 
+HDR leaf ambient      2855/65536       79940/1835008  ( 4.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/45658    ( 0.0%) 
+pakfile               [variable]       17649/0        ( 0.0%) 
+physics               [variable]      210952/4194304  ( 5.0%) 
+physics terrain       [variable]       10580/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 10060
+Writing c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+21 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+3699 faces
+2 degenerate faces
+949866 square feet [136780752.00 square inches]
+114 Displacements
+6146 Square Feet [885069.38 Square Inches]
+3697 patches before subdivision
+52499 patches after subdivision
+44 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4186987, max 439
+transfer lists:  31.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(341371, 335817, 332838)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(85208, 80765, 67702)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(24401, 22745, 16469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8305, 7588, 4789)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3033, 2723, 1489)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1169, 1026, 484)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(468, 400, 162)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(191, 158, 55)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(80, 64, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(34, 26, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(14, 11, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(6, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0159 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  45/1024         2160/49152    ( 4.4%) 
+brushes                535/8192         6420/98304    ( 6.5%) 
+brushsides            6508/65536       52064/524288   ( 9.9%) 
+planes               12582/65536      251640/1310720  (19.2%) 
+vertexes              5995/65536       71940/786432   ( 9.1%) 
+nodes                 2809/65536       89888/2097152  ( 4.3%) 
+texinfos               661/12288       47592/884736   ( 5.4%) 
+texdata                 59/2048         1888/65536    ( 2.9%) 
+dispinfos              114/0           20064/0        ( 0.0%) 
+disp_verts            9234/0          184680/0        ( 0.0%) 
+disp_tris            14592/0           29184/0        ( 0.0%) 
+disp_lmsamples       24760/0           24760/0        ( 0.0%) 
+faces                 3699/65536      207144/3670016  ( 5.6%) 
+hdr faces             3699/65536      207144/3670016  ( 5.6%) 
+origfaces             1538/65536       86128/3670016  ( 2.3%) 
+leaves                2855/65536       91360/2097152  ( 4.4%) 
+leaffaces             4080/65536        8160/131072   ( 6.2%) 
+leafbrushes           1988/65536        3976/131072   ( 3.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            23610/512000      94440/2048000  ( 4.6%) 
+edges                13074/256000      52296/1024000  ( 5.1%) 
+LDR worldlights         44/8192         3872/720896   ( 0.5%) 
+HDR worldlights         44/8192         3872/720896   ( 0.5%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            249/32768        2490/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4065/65536        8130/131072   ( 6.2%) 
+cubemapsamples          22/1024          352/16384    ( 2.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3803212/0        ( 0.0%) 
+HDR lightdata         [variable]     3803212/0        ( 0.0%) 
+visdata               [variable]      164393/16777216 ( 1.0%) 
+entdata               [variable]       47489/393216   (12.1%) 
+LDR ambient table     2855/65536       11420/262144   ( 4.4%) 
+HDR ambient table     2855/65536       11420/262144   ( 4.4%) 
+LDR leaf ambient     14073/65536      394044/1835008  (21.5%) 
+HDR leaf ambient     14100/65536      394800/1835008  (21.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/45658    ( 0.0%) 
+pakfile               [variable]       17649/0        ( 0.0%) 
+physics               [variable]      210952/4194304  ( 5.0%) 
+physics terrain       [variable]       10580/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 10060
+Writing c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+21 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\AcerUser\Desktop\Technicals\Hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.vmf
+Patching WVT material: maps/koth_precision_warehouse_b4/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material SWAMP/WATER/WATER_MURKY_BENEATH doesn't have a $bottommaterial
+error: material SWAMP/WATER/WATER_MURKY_BENEATH doesn't have a $bottommaterial
+error: material SWAMP/WATER/WATER_MURKY_BENEATH doesn't have a $bottommaterial
+error: material SWAMP/WATER/WATER_MURKY_BENEATH doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\AcerUser\Desktop\Technicals\Hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_trainyard_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_trainyard_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_trainyard_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_trainyard_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (161276 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 573 texinfos to 208
+Reduced 51 texdatas to 36 (2307 bytes to 1389)
+Writing C:\Users\AcerUser\Desktop\Technicals\Hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\AcerUser\Desktop\Technicals\Hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 11993, actual size 9099
+3 seconds elapsed
+
+
+
+8 threads
+reading c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+reading c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.prt
+ 827 portalclusters
+2429 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1095 visible clusters (0.47%)
+Total clusters visible: 232544
+Average clusters visible: 281
+Building PAS...
+Average clusters audible: 738
+visdatasize:164393  compressed from 172016
+writing c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp', but we don't own that location. Allowing.
+35 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+2661 faces
+943696 square feet [135892320.00 square inches]
+114 Displacements
+6146 Square Feet [885069.38 Square Inches]
+2661 patches before subdivision
+50581 patches after subdivision
+44 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3864546, max 437
+transfer lists:  29.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(247620, 251989, 249838)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(63979, 62257, 51434)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(18262, 17608, 12493)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6215, 5887, 3619)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2262, 2115, 1122)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(870, 797, 364)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(347, 311, 121)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(142, 123, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(59, 50, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(25, 20, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(11, 8, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0198 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/1024         1344/49152    ( 2.7%) 
+brushes                443/8192         5316/98304    ( 5.4%) 
+brushsides            4315/65536       34520/524288   ( 6.6%) 
+planes                4986/65536       99720/1310720  ( 7.6%) 
+vertexes              4410/65536       52920/786432   ( 6.7%) 
+nodes                 1779/65536       56928/2097152  ( 2.7%) 
+texinfos               208/12288       14976/884736   ( 1.7%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos              114/0           20064/0        ( 0.0%) 
+disp_verts            9234/0          184680/0        ( 0.0%) 
+disp_tris            14592/0           29184/0        ( 0.0%) 
+disp_lmsamples       24760/0           24760/0        ( 0.0%) 
+faces                 2661/65536      149016/3670016  ( 4.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              986/65536       55216/3670016  ( 1.5%) 
+leaves                1808/65536       57856/2097152  ( 2.8%) 
+leaffaces             2974/65536        5948/131072   ( 4.5%) 
+leafbrushes           1228/65536        2456/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16358/512000      65432/2048000  ( 3.2%) 
+edges                 9430/256000      37720/1024000  ( 3.7%) 
+LDR worldlights         44/8192         3872/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            249/32768        2490/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4065/65536        8130/131072   ( 6.2%) 
+cubemapsamples          22/1024          352/16384    ( 2.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3714260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      164393/16777216 ( 1.0%) 
+entdata               [variable]       41386/393216   (10.5%) 
+LDR ambient table     1808/65536        7232/262144   ( 2.8%) 
+HDR ambient table     1808/65536        7232/262144   ( 2.8%) 
+LDR leaf ambient     10906/65536      305368/1835008  (16.6%) 
+HDR leaf ambient      1808/65536       50624/1835008  ( 2.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/46008    ( 0.0%) 
+pakfile               [variable]        9099/0        ( 0.0%) 
+physics               [variable]      161276/4194304  ( 3.8%) 
+physics terrain       [variable]       10580/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 7092
+Writing c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+19 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+2661 faces
+943696 square feet [135892320.00 square inches]
+114 Displacements
+6146 Square Feet [885069.38 Square Inches]
+2661 patches before subdivision
+50581 patches after subdivision
+44 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3864546, max 437
+transfer lists:  29.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(311175, 310022, 310569)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(79186, 75236, 62875)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(22134, 20749, 14939)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7474, 6867, 4287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2704, 2447, 1318)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1039, 920, 426)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(415, 358, 141)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(170, 142, 48)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(71, 58, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(30, 23, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 10, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(6, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0157 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/1024         1344/49152    ( 2.7%) 
+brushes                443/8192         5316/98304    ( 5.4%) 
+brushsides            4315/65536       34520/524288   ( 6.6%) 
+planes                4986/65536       99720/1310720  ( 7.6%) 
+vertexes              4410/65536       52920/786432   ( 6.7%) 
+nodes                 1779/65536       56928/2097152  ( 2.7%) 
+texinfos               208/12288       14976/884736   ( 1.7%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos              114/0           20064/0        ( 0.0%) 
+disp_verts            9234/0          184680/0        ( 0.0%) 
+disp_tris            14592/0           29184/0        ( 0.0%) 
+disp_lmsamples       24760/0           24760/0        ( 0.0%) 
+faces                 2661/65536      149016/3670016  ( 4.1%) 
+hdr faces             2661/65536      149016/3670016  ( 4.1%) 
+origfaces              986/65536       55216/3670016  ( 1.5%) 
+leaves                1808/65536       57856/2097152  ( 2.8%) 
+leaffaces             2974/65536        5948/131072   ( 4.5%) 
+leafbrushes           1228/65536        2456/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16358/512000      65432/2048000  ( 3.2%) 
+edges                 9430/256000      37720/1024000  ( 3.7%) 
+LDR worldlights         44/8192         3872/720896   ( 0.5%) 
+HDR worldlights         44/8192         3872/720896   ( 0.5%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            249/32768        2490/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4065/65536        8130/131072   ( 6.2%) 
+cubemapsamples          22/1024          352/16384    ( 2.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3714260/0        ( 0.0%) 
+HDR lightdata         [variable]     3714260/0        ( 0.0%) 
+visdata               [variable]      164393/16777216 ( 1.0%) 
+entdata               [variable]       41386/393216   (10.5%) 
+LDR ambient table     1808/65536        7232/262144   ( 2.8%) 
+HDR ambient table     1808/65536        7232/262144   ( 2.8%) 
+LDR leaf ambient     10906/65536      305368/1835008  (16.6%) 
+HDR leaf ambient     10928/65536      305984/1835008  (16.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/46008    ( 0.0%) 
+pakfile               [variable]        9099/0        ( 0.0%) 
+physics               [variable]      161276/4194304  ( 3.8%) 
+physics terrain       [variable]       10580/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 7092
+Writing c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+19 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\AcerUser\Desktop\Technicals\Hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.vmf
+Patching WVT material: maps/koth_precision_warehouse_b4/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material SWAMP/WATER/WATER_MURKY_BENEATH doesn't have a $bottommaterial
+error: material SWAMP/WATER/WATER_MURKY_BENEATH doesn't have a $bottommaterial
+error: material SWAMP/WATER/WATER_MURKY_BENEATH doesn't have a $bottommaterial
+error: material SWAMP/WATER/WATER_MURKY_BENEATH doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\AcerUser\Desktop\Technicals\Hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_trainyard_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_trainyard_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_trainyard_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_trainyard_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (161276 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 548 texinfos to 205
+Reduced 51 texdatas to 36 (2307 bytes to 1389)
+Writing C:\Users\AcerUser\Desktop\Technicals\Hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\AcerUser\Desktop\Technicals\Hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 11993, actual size 9099
+3 seconds elapsed
+
+
+
+8 threads
+reading c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+reading c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.prt
+ 827 portalclusters
+2429 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1094 visible clusters (0.47%)
+Total clusters visible: 232543
+Average clusters visible: 281
+Building PAS...
+Average clusters audible: 738
+visdatasize:164393  compressed from 172016
+writing c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp', but we don't own that location. Allowing.
+41 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+2661 faces
+943696 square feet [135892320.00 square inches]
+114 Displacements
+6340 Square Feet [912961.44 Square Inches]
+2661 patches before subdivision
+50581 patches after subdivision
+44 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3689248, max 436
+transfer lists:  28.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(239760, 244532, 242644)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(59445, 58158, 48071)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(16490, 16025, 11356)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5486, 5254, 3220)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1967, 1865, 984)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(750, 699, 316)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(299, 272, 105)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(122, 108, 35)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(51, 44, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(22, 18, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(9, 7, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(4, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0189 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/1024         1344/49152    ( 2.7%) 
+brushes                443/8192         5316/98304    ( 5.4%) 
+brushsides            4380/65536       35040/524288   ( 6.7%) 
+planes                5078/65536      101560/1310720  ( 7.7%) 
+vertexes              4410/65536       52920/786432   ( 6.7%) 
+nodes                 1779/65536       56928/2097152  ( 2.7%) 
+texinfos               205/12288       14760/884736   ( 1.7%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos              114/0           20064/0        ( 0.0%) 
+disp_verts            9234/0          184680/0        ( 0.0%) 
+disp_tris            14592/0           29184/0        ( 0.0%) 
+disp_lmsamples       25288/0           25288/0        ( 0.0%) 
+faces                 2661/65536      149016/3670016  ( 4.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              986/65536       55216/3670016  ( 1.5%) 
+leaves                1808/65536       57856/2097152  ( 2.8%) 
+leaffaces             2974/65536        5948/131072   ( 4.5%) 
+leafbrushes           1228/65536        2456/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16358/512000      65432/2048000  ( 3.2%) 
+edges                 9430/256000      37720/1024000  ( 3.7%) 
+LDR worldlights         44/8192         3872/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            249/32768        2490/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4065/65536        8130/131072   ( 6.2%) 
+cubemapsamples          22/1024          352/16384    ( 2.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3714344/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      164393/16777216 ( 1.0%) 
+entdata               [variable]       41386/393216   (10.5%) 
+LDR ambient table     1808/65536        7232/262144   ( 2.8%) 
+HDR ambient table     1808/65536        7232/262144   ( 2.8%) 
+LDR leaf ambient     10902/65536      305256/1835008  (16.6%) 
+HDR leaf ambient      1808/65536       50624/1835008  ( 2.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/47410    ( 0.0%) 
+pakfile               [variable]        9099/0        ( 0.0%) 
+physics               [variable]      161276/4194304  ( 3.8%) 
+physics terrain       [variable]       11112/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 7092
+Writing c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+20 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+2661 faces
+943696 square feet [135892320.00 square inches]
+114 Displacements
+6340 Square Feet [912961.44 Square Inches]
+2661 patches before subdivision
+50581 patches after subdivision
+44 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3689248, max 436
+transfer lists:  28.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(301678, 301148, 301932)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(73771, 70424, 58901)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20078, 18948, 13632)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6641, 6158, 3834)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2371, 2171, 1164)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(905, 812, 373)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(361, 316, 123)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(148, 126, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(62, 51, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(27, 21, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(12, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0240 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/1024         1344/49152    ( 2.7%) 
+brushes                443/8192         5316/98304    ( 5.4%) 
+brushsides            4380/65536       35040/524288   ( 6.7%) 
+planes                5078/65536      101560/1310720  ( 7.7%) 
+vertexes              4410/65536       52920/786432   ( 6.7%) 
+nodes                 1779/65536       56928/2097152  ( 2.7%) 
+texinfos               205/12288       14760/884736   ( 1.7%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos              114/0           20064/0        ( 0.0%) 
+disp_verts            9234/0          184680/0        ( 0.0%) 
+disp_tris            14592/0           29184/0        ( 0.0%) 
+disp_lmsamples       25288/0           25288/0        ( 0.0%) 
+faces                 2661/65536      149016/3670016  ( 4.1%) 
+hdr faces             2661/65536      149016/3670016  ( 4.1%) 
+origfaces              986/65536       55216/3670016  ( 1.5%) 
+leaves                1808/65536       57856/2097152  ( 2.8%) 
+leaffaces             2974/65536        5948/131072   ( 4.5%) 
+leafbrushes           1228/65536        2456/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            16358/512000      65432/2048000  ( 3.2%) 
+edges                 9430/256000      37720/1024000  ( 3.7%) 
+LDR worldlights         44/8192         3872/720896   ( 0.5%) 
+HDR worldlights         44/8192         3872/720896   ( 0.5%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            249/32768        2490/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4065/65536        8130/131072   ( 6.2%) 
+cubemapsamples          22/1024          352/16384    ( 2.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3714344/0        ( 0.0%) 
+HDR lightdata         [variable]     3714344/0        ( 0.0%) 
+visdata               [variable]      164393/16777216 ( 1.0%) 
+entdata               [variable]       41386/393216   (10.5%) 
+LDR ambient table     1808/65536        7232/262144   ( 2.8%) 
+HDR ambient table     1808/65536        7232/262144   ( 2.8%) 
+LDR leaf ambient     10902/65536      305256/1835008  (16.6%) 
+HDR leaf ambient     10911/65536      305508/1835008  (16.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/47410    ( 0.0%) 
+pakfile               [variable]        9099/0        ( 0.0%) 
+physics               [variable]      161276/4194304  ( 3.8%) 
+physics terrain       [variable]       11112/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 7092
+Writing c:\users\aceruser\desktop\technicals\hammer\koth-precision-warehouse\src\koth_precision_warehouse_b4.bsp
+21 seconds elapsed
