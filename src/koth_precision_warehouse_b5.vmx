@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9109"
-	"mapversion" "570"
+	"mapversion" "571"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,7 +26,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "570"
+	"mapversion" "571"
 	"classname" "worldspawn"
 	"chaptertitle" "Warehouse"
 	"detailmaterial" "detail/detailsprites_2fort"
@@ -13965,82 +13965,6 @@ world
 		editor
 		{
 			"color" "0 233 146"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "3542"
-		side
-		{
-			"id" "21690"
-			"plane" "(528 752 256) (528 768 256) (877 768 256)"
-			"material" "METAL/FLOORPLATE01"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[1 0 0 140.801] 0.25"
-			"rotation" "90"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "21689"
-			"plane" "(528 768 240) (528 752 240) (877 752 240)"
-			"material" "METAL/FLOORPLATE01"
-			"uaxis" "[1 0 0 -51.1992] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "21688"
-			"plane" "(528 752 240) (528 768 240) (528 768 256)"
-			"material" "METAL/FLOORPLATE01"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "21687"
-			"plane" "(877 768 240) (877 752 240) (877 752 256)"
-			"material" "METAL/FLOORPLATE01"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "21686"
-			"plane" "(528 768 240) (877 768 240) (877 768 256)"
-			"material" "METAL/FLOORPLATE01"
-			"uaxis" "[1 0 0 -51.1992] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "21685"
-			"plane" "(877 752 240) (528 752 240) (528 752 256)"
-			"material" "METAL/FLOORPLATE01"
-			"uaxis" "[1 0 0 -51.1992] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 175 204"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -32670,7 +32594,7 @@ world
 		side
 		{
 			"id" "26417"
-			"plane" "(832 264 256.25) (832 280 256.25) (812 280 256.25)"
+			"plane" "(832 264 256) (832 280 256) (812 280 256)"
 			"material" "METAL/BRIDGEBEAM001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 448.002] 0.25"
@@ -32681,7 +32605,7 @@ world
 		side
 		{
 			"id" "26416"
-			"plane" "(812 264 256.25) (812 280 256.25) (812 280 432.25)"
+			"plane" "(812 264 256) (812 280 256) (812 280 432.25)"
 			"material" "METAL/BRIDGEBEAM001"
 			"uaxis" "[0 1 0 -0.00195313] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -32692,7 +32616,7 @@ world
 		side
 		{
 			"id" "26415"
-			"plane" "(832 280 256.25) (832 264 256.25) (832 264 432.25)"
+			"plane" "(832 280 256) (832 264 256) (832 264 432.25)"
 			"material" "METAL/BRIDGEBEAM001"
 			"uaxis" "[0 1 0 -0.00195313] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -32703,7 +32627,7 @@ world
 		side
 		{
 			"id" "26414"
-			"plane" "(812 280 256.25) (832 280 256.25) (832 280 432.25)"
+			"plane" "(812 280 256) (832 280 256) (832 280 432.25)"
 			"material" "METAL/BRIDGEBEAM001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -32714,7 +32638,7 @@ world
 		side
 		{
 			"id" "26413"
-			"plane" "(832 264 256.25) (812 264 256.25) (812 264 432.25)"
+			"plane" "(832 264 256) (812 264 256) (812 264 432.25)"
 			"material" "METAL/BRIDGEBEAM001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -32746,7 +32670,7 @@ world
 		side
 		{
 			"id" "26423"
-			"plane" "(812 272 256.25) (812 276 256.25) (596.001 276 256.25)"
+			"plane" "(812 272 256) (812 276 256) (596.001 276 256)"
 			"material" "METAL/METALDOOR001"
 			"uaxis" "[1 0 0 896] 0.25"
 			"vaxis" "[0 -1 0 448.002] 0.25"
@@ -32757,7 +32681,7 @@ world
 		side
 		{
 			"id" "26422"
-			"plane" "(596.003 272 256.25) (596.003 276 256.25) (596.003 276 432.25)"
+			"plane" "(596.003 272 256) (596.003 276 256) (596.003 276 432.25)"
 			"material" "METAL/METALDOOR001"
 			"uaxis" "[0 1 0 -448.002] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -32768,7 +32692,7 @@ world
 		side
 		{
 			"id" "26421"
-			"plane" "(812 276 256.25) (812 272 256.25) (812 272 432.25)"
+			"plane" "(812 276 256) (812 272 256) (812 272 432.25)"
 			"material" "METAL/METALDOOR001"
 			"uaxis" "[0 1 0 -448.002] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -32779,7 +32703,7 @@ world
 		side
 		{
 			"id" "26420"
-			"plane" "(596.002 276 256.25) (812 276 256.25) (812 276 432.25)"
+			"plane" "(596.002 276 256) (812 276 256) (812 276 432.25)"
 			"material" "METAL/METALDOOR001"
 			"uaxis" "[1 0 0 896] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -32790,7 +32714,7 @@ world
 		side
 		{
 			"id" "26419"
-			"plane" "(812 272 256.25) (596 272 256.25) (596.002 272 432.25)"
+			"plane" "(812 272 256) (596 272 256) (596.002 272 432.25)"
 			"material" "METAL/METALDOOR001"
 			"uaxis" "[1 0 0 896] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -32822,7 +32746,7 @@ world
 		side
 		{
 			"id" "26435"
-			"plane" "(595.999 264 256.25) (595.999 280 256.25) (576 280 256.25)"
+			"plane" "(595.999 264 256) (595.999 280 256) (576 280 256)"
 			"material" "METAL/BRIDGEBEAM001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 448.002] 0.25"
@@ -32833,7 +32757,7 @@ world
 		side
 		{
 			"id" "26434"
-			"plane" "(576 264 256.25) (576 280 256.25) (576 280 432.25)"
+			"plane" "(576 264 256) (576 280 256) (576 280 432.25)"
 			"material" "METAL/BRIDGEBEAM001"
 			"uaxis" "[0 1 0 -0.00195313] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -32844,7 +32768,7 @@ world
 		side
 		{
 			"id" "26433"
-			"plane" "(596 280 256.25) (596 264 256.25) (596 264 432.25)"
+			"plane" "(596 280 256) (596 264 256) (596 264 432.25)"
 			"material" "METAL/BRIDGEBEAM001"
 			"uaxis" "[0 1 0 -0.00195313] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -32855,7 +32779,7 @@ world
 		side
 		{
 			"id" "26432"
-			"plane" "(576 280 256.25) (596 280 256.25) (595.999 280 432.25)"
+			"plane" "(576 280 256) (596 280 256) (595.999 280 432.25)"
 			"material" "METAL/BRIDGEBEAM001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -32866,7 +32790,7 @@ world
 		side
 		{
 			"id" "26431"
-			"plane" "(595.999 264 256.25) (576 264 256.25) (576 264 432.25)"
+			"plane" "(595.999 264 256) (576 264 256) (576 264 432.25)"
 			"material" "METAL/BRIDGEBEAM001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -32953,6 +32877,82 @@ world
 		editor
 		{
 			"color" "0 237 134"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "3542"
+		side
+		{
+			"id" "26454"
+			"plane" "(528 752 256) (528 768 256) (877 768 256)"
+			"material" "METAL/FLOORPLATE01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[1 0 0 140.801] 0.25"
+			"rotation" "90"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "26453"
+			"plane" "(528 768 240) (528 752 240) (877 752 240)"
+			"material" "METAL/FLOORPLATE01"
+			"uaxis" "[1 0 0 -51.1992] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "26452"
+			"plane" "(528 752 240) (528 768 240) (528 768 256)"
+			"material" "METAL/FLOORPLATE01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "26451"
+			"plane" "(877 768 240) (877 752 240) (877 752 256)"
+			"material" "METAL/FLOORPLATE01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "26450"
+			"plane" "(528 768 240) (877 768 240) (877 768 256)"
+			"material" "METAL/FLOORPLATE01"
+			"uaxis" "[1 0 0 -51.1992] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "26449"
+			"plane" "(877 752 240) (528 752 240) (528 752 256)"
+			"material" "METAL/FLOORPLATE01"
+			"uaxis" "[1 0 0 -51.1992] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 175 204"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
